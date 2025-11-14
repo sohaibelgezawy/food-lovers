@@ -7,7 +7,7 @@ html{
     scroll-behavior: smooth;
 }
 header{
-    background:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(images/home_bg.jpg);
+    background:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(home_bg.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -138,7 +138,7 @@ nav a:hover{
 /* end about */
 /* start offer  */
 .offer-sec{
-    background: url(./images/offer-background.jpg);
+    background: url(offer-background.jpg);
      background-position: center;
     background-size: cover;
     padding: 50px 0;
@@ -291,7 +291,7 @@ nav a:hover{
 /* end memu */
 /* starr\t datelunch */
 .datelunch{
-    background: url(./images/daytime_bg.jpeg);
+    background: url(daytime_bg.jpeg);
 }
 .dates{
     width: 85%;
@@ -307,7 +307,7 @@ nav a:hover{
 
 /* end date lunch */
 .gallery-container{
-    background: url(./images/offer-background.jpg);
+    background: url(offer-background.jpg);
     height: 120vh;
 }
 .txt-gallery h2{
@@ -434,4 +434,5 @@ footer{
     background-color:rgba(17, 9, 9, 0.863);
     color: white;
     height: 10vh;
+
 }
